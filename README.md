@@ -98,27 +98,6 @@ The following algorithms are used:
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/salary-prediction.git
-```
-
-2. Install dependencies:
-
-```
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
-
-3. Run the script:
-
-```
-python salary_prediction_model_building.py
-```
-
----
 
 ## 💡 Key Highlights
 
@@ -141,6 +120,6 @@ python salary_prediction_model_building.py
 
 ## 📬 Conclusion
 
-This project demonstrates how machine learning can be applied to predict salaries and compare different regression models effectively. It is a great beginner-to-intermediate level project for understanding the full ML pipeline.
+This project demonstrates how machine learning can be applied to predict salaries and compare different regression models effectively..
 
 ---
